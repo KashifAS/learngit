@@ -1,1 +1,0 @@
-This is some random way to learn how im I using git
